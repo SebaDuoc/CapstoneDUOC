@@ -1,2 +1,2 @@
 # CapstoneDUOC
-Subida de documentos para Capstone
+Subida de documentos para Capstone.
